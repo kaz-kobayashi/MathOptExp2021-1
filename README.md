@@ -55,7 +55,7 @@
 
 - 質疑応答方法の確認
   1. 上記の「質疑応答」を必ず読むこと
-  2. 質問の方法は， [https://www.hyuki.com/writing/techask.html] を読んで学ぶこと．
+  2. 質問の方法は， https://www.hyuki.com/writing/techask.html を読んで学ぶこと．
 
 - Pythonの基本的なプログラミング機能の学習
 

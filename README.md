@@ -58,4 +58,5 @@
   2. 質問の方法は， https://www.hyuki.com/writing/techask.html を読んで学ぶこと．
 
 - Pythonの基本的なプログラミング機能の学習
+  
 

@@ -1,0 +1,8 @@
+name: MathOptExp2021
+channels:
+  - conda-forge 
+dependencies:
+  - python
+  - numpy
+  - pip:
+    - matplotlib
